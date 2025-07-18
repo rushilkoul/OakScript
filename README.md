@@ -17,8 +17,9 @@
 - Fork the repository.
 - Make the changes and commit them to the forked repo.
 - Make a pull request on this repo.
-- 
+ 
 <h2 align="center"> Issues </h2>
 If you have issues, please do the following:
+
 - Create an issue with a short, yet descriptive title
 - In the issue, please explain what the issue is, in depth, and how to recreate it.
